@@ -1,8 +1,8 @@
-# Welcome to your Expo app 👋
+# Skilltree App 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Skilltree gamifies calisthenics for users of all skill levels!
 
-## Get started
+## Onboarding
 
 1. Install dependencies
 
@@ -16,35 +16,47 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+3. Launch target device
+   
+   if developing on MacOS:
+      ```bash
+       i // initializes iOS simulator
+      ```
+   elif developing on Windows/Linux with an iPhone accessible:
+      ```bash
+       download ExpoGo from iOS app store, scan QR code with iOS device
+      ```
+   else
+      ```bash
+       w // initializes web simulator and resize browser to similar dimensions as a iPhone
+      ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Resources
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Discord
+Use this link to get access to the [Skilltree Discord](https://discord.gg/7GwE9UCeWU).
 
-## Get a fresh project
+### Figma (UI/UX)
+Use this link to get access to the [Skilltree UI/UX](https://www.figma.com/design/CiTPwty11qBTFfAy6BiHUV/TritonThenix-Skilltree-UI%2FUX?node-id=126-4111&t=dOFb4058R5DA31IS-1).
 
-When you're ready, run:
+### App Component Delegation (Sprint 1)
+Use this link to get access to the [Sprint 1 Component Delegation Sheet]([https://www.figma.com/design/CiTPwty11](https://docs.google.com/spreadsheets/d/16EBtr3EZbQIjkbno9Q4PeFd-WKka5ZMGRkppQuOrr_4/edit?usp=sharing)
 
-```bash
-npm run reset-project
-```
+### Google Drive Folder
+Use this link to get access to the [Skilltree Drive](https://drive.google.com/drive/folders/1hSclaCT-a3dG_X79w3-l7T8TqND8UBpP?usp=drive_link).
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Onboarding Slides
+Use this link to get access to the [Skilltree Onboarding Slides]
+(https://docs.google.com/presentation/d/1PRGWBu0n5AIJ_52DJ7Tf2EykhZIMT7b9VF2AvqB_vuE/edit?usp=sharing).
 
-## Learn more
+## Managers
+Use the contact info to email or text us (Note: both Jack & Spandan are on EST Timezones)
 
-To learn more about developing your project with Expo, look at the following resources:
+### Jack Weston
+Email: jweston@ucsd.edu
+Phone Number: 513-407-1051
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Spandan Das
+Email: spdas@ucsd.edu
+Phone Number: 571-385-5099
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
