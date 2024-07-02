@@ -54,9 +54,11 @@ Use the contact info to email or text us (Note: both Jack & Spandan are on EST T
 
 ### Jack Weston
 Email: jweston@ucsd.edu
+
 Phone Number: 513-407-1051
 
 ### Spandan Das
 Email: spdas@ucsd.edu
+
 Phone Number: 571-385-5099
 
