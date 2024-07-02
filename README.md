@@ -37,10 +37,10 @@ Skilltree gamifies calisthenics for users of all skill levels!
 Use this link to get access to the [Skilltree Discord](https://discord.gg/7GwE9UCeWU).
 
 ### Figma (UI/UX)
-Use this link to get access to the [Skilltree UI/UX](https://www.figma.com/design/CiTPwty11qBTFfAy6BiHUV/TritonThenix-Skilltree-UI%2FUX?node-id=126-4111&t=dOFb4058R5DA31IS-1)  
+Use this link to get access to the [Skilltree UI/UX](https://www.figma.com/design/CiTPwty11qBTFfAy6BiHUV/TritonThenix-Skilltree-UI%2FUX?node-id=126-4111&t=dOFb4058R5DA31IS-1) 
 
 ### App Component Delegation (Sprint 1)
-Use this link to get access to the [Sprint 1 Component Delegation Sheet]([https://www.figma.com/design/CiTPwty11](https://docs.google.com/spreadsheets/d/16EBtr3EZbQIjkbno9Q4PeFd-WKka5ZMGRkppQuOrr_4/edit?usp=sharing))  
+Use this link to get access to the [Sprint 1 Component Delegation Sheet](https://www.figma.com/design/CiTPwty11](https://docs.google.com/spreadsheets/d/16EBtr3EZbQIjkbno9Q4PeFd-WKka5ZMGRkppQuOrr_4/edit?usp=sharing))  
 
 ### Google Drive Folder
 Use this link to get access to the [Skilltree Drive](https://drive.google.com/drive/folders/1hSclaCT-a3dG_X79w3-l7T8TqND8UBpP?usp=drive_link)   
